@@ -12,7 +12,7 @@
 
 <p>🚀 <strong>My Mission:</strong> Innovate with AI to make scalable, ethical, and efficient systems.</p>
 
-<p>💡 <em>“Code is the closest thing we have to magic.”</em></p>
+<p>💡 <em>“Data is the sword of the 21st century — those who wield it, rule.”</em></p>
 
 <!-- GIF of Coder -->
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
