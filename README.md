@@ -1,4 +1,4 @@
-<h3 id="hey--im-samarth-more">Hey 👋, I’m <a href="https://github.com/moresamarth">Samarth More!</a></h3>
+<h3 id="hey--im-samarth-more">Hey 👋, I’m <a href="https://github.com/moresamarth2020">Samarth More!</a></h3>
 
 <a href="https://www.linkedin.com/in/moresamarth24/">
   <img align="left" alt="Samarth's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
